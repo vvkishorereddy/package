@@ -1,4 +1,10 @@
 {
+  "name":"vvkishore/package",
+  "licenSe":"MIT",
+  "require":{
+    "php":">=5.3"
+
+    },
   "autoload":{
     "psr-4":{
       "library\\":"library"
